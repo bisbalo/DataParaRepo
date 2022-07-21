@@ -6817,11 +6817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\DataParaRepo\\DataDrivenProject\\DataDrivenProject.csproj",
       "projectName": "DataDrivenProject",
-      "projectPath": "C:\\Users\\user\\Downloads\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\DataParaRepo\\DataDrivenProject\\DataDrivenProject.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\DataParaRepo\\DataDrivenProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
